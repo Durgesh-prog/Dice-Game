@@ -1,6 +1,7 @@
 # Dice-Game
 
 It's a simple Dice Game 
+https://mystifying-agnesi-73b409.netlify.app/
 
 ## Rules:
     - When a Player Rolls a dice, the result get added to his Current Score
