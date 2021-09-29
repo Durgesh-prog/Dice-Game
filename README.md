@@ -2,7 +2,7 @@
 
 It's a simple Dice Game 
 
-Rules:
+## Rules:
     - When a Player Rolls a dice, the result get added to his Current Score
     - If the player Rolls a One , all his Current score gets lost
     - The player can choose to 'Hold' , which means that his current score gets added to his Global score
